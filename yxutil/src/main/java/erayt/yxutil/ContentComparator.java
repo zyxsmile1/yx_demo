@@ -1,4 +1,4 @@
-package yycg.util;
+package erayt.yxutil;
 
 import java.util.Comparator;
 
